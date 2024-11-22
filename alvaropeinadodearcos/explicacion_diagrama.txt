@@ -1,0 +1,1 @@
+en la parte final comparo todos los resultados para mostrar en pantalla el orden de mayor a menor
